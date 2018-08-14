@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "thaumcraft",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

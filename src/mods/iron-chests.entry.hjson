@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "iron-chests",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "thaumcraft-nei-plugin",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

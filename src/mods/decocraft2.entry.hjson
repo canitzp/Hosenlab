@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "decocraft2",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

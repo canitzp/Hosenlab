@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "buildcraft-compat",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "thaumic-energistics",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

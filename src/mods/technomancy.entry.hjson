@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "technomancy",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

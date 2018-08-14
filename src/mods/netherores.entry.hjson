@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "netherores",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

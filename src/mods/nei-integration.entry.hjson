@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "nei-integration",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

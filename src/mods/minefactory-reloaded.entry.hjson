@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "minefactory-reloaded",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "endercore",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

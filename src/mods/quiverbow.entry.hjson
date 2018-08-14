@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "quiverbow",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

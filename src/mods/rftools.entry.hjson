@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "rftools",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

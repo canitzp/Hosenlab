@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "enchanting-plus",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

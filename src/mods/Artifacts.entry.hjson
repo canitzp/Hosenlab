@@ -1,0 +1,8 @@
+{ 
+  "provider": "LOCAL",
+  "id": "Artifacts",
+  "validMcVersions": [ 
+    "1.7.10"
+  ],
+  "fileSrc": "Artifacts-1.1.3.jar"
+}

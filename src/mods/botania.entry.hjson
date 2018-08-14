@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "botania",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

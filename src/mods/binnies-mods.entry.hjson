@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "binnies-mods",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "redstone-arsenal",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

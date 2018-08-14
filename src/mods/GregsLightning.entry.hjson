@@ -1,0 +1,8 @@
+{ 
+  "provider": "DIRECT",
+  "id": "Greg's Lightning",
+  "validMcVersions": [ 
+    "1.7.10"
+  ],
+  "url": "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/download/GregsLighting-1.11.2-mc1.7.10.jar"
+}

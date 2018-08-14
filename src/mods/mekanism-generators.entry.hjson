@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "mekanism-generators",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

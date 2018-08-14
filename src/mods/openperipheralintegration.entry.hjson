@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "openperipheralintegration",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

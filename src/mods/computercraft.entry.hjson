@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "computercraft",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

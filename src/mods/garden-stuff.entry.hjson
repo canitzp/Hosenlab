@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "garden-stuff",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

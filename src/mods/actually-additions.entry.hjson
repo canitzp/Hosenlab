@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "actually-additions",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

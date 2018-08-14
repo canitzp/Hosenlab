@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "wawla-what-are-we-looking-at",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

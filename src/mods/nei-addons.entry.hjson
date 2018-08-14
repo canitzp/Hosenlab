@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "nei-addons",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

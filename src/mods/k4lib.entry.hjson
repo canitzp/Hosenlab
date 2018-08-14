@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "k4lib",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

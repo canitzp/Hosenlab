@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "magic-bees",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

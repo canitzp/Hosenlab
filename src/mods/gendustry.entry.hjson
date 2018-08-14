@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "gendustry",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

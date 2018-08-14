@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "natura",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

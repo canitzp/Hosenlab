@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "llibrary",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

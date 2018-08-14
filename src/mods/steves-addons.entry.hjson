@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "steves-addons",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

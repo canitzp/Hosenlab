@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "carpenters-blocks",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

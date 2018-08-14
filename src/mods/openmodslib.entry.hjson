@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "openmodslib",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

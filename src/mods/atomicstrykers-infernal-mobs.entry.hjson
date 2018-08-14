@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "atomicstrykers-infernal-mobs",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

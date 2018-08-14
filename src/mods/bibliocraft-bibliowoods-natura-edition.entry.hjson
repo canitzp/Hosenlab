@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "bibliocraft-bibliowoods-natura-edition",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

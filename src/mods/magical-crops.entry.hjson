@@ -1,0 +1,10 @@
+{ 
+  "provider": "CURSE",
+  "id": "magical-crops",
+  "validMcVersions": [ 
+    "1.7.10"
+  ],
+  "curseReleaseTypes": [ 
+    "RELEASE"
+  ]
+}

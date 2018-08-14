@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "projecte",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "simply-jetpacks",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

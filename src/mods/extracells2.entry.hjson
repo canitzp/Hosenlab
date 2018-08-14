@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "extracells2",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

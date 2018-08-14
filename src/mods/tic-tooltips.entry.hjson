@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "tic-tooltips",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

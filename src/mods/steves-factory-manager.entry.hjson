@@ -1,0 +1,10 @@
+{ 
+  "provider": "CURSE",
+  "id": "steves-factory-manager",
+  "validMcVersions": [ 
+    "1.7.10"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA"
+  ]
+}

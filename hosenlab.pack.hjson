@@ -1,0 +1,11 @@
+{ 
+	"id": "hosenlab",
+	"title": "Hosenlab",
+	"version": "1.0.0",
+	"authors": [ 
+		"canitzp",
+		"dqmhose"
+	],
+	"mcVersion": "1.7.10",
+	"forge": "1614"
+}

@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "fossils-and-archeology-revival",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

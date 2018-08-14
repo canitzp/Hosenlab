@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "growthcraft-community-edition",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

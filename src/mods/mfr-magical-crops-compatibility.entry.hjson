@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "mfr-magical-crops-compatibility",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}

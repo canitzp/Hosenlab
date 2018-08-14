@@ -1,0 +1,8 @@
+{ 
+  "provider": "DIRECT",
+  "id": "AsieLib",
+  "validMcVersions": [ 
+    "1.7.10"
+  ],
+  "url": "https://files.vexatos.com/AsieLib/AsieLib-1.7.10-0.4.8.jar"
+}

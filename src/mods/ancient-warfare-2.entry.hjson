@@ -1,0 +1,7 @@
+{ 
+  "provider": "CURSE",
+  "id": "ancient-warfare-2",
+  "validMcVersions": [ 
+    "1.7.10"
+  ]
+}
